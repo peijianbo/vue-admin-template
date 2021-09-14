@@ -1,4 +1,6 @@
 # vue-admin-template
+## master分支未更改过，与原仓库保持一致，所有修改操作都在新建的master-bk分支，通过比较两个分支可以区分修改过的内容
+
 
 > 这是一个极简的 vue admin 管理后台。它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
 
